@@ -1,0 +1,49 @@
+name: Lift
+options:
+  bundleIdPrefix: Lift
+  deploymentTarget:
+    iOS: "16.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+targets:
+  Lift:
+    type: application
+    platform: iOS
+    sources:
+      - path: App
+      - path: Shared
+      - path: Web
+        type: folder
+    info:
+      path: App/Info.plist
+      properties:
+        CFBundleDisplayName: Lift
+        UILaunchScreen: {}
+        UIUserInterfaceStyle: Dark
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: Lift.Lift
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+    dependencies:
+      - target: LiftWidget
+  LiftWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: LiftWidget
+      - path: Shared
+    info:
+      path: LiftWidget/Info.plist
+      properties:
+        CFBundleDisplayName: Lift
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: Lift.Lift.widget
+        TARGETED_DEVICE_FAMILY: "1"

@@ -1,0 +1,74 @@
+name: Build IPA
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: macos-15
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install XcodeGen and ldid
+        run: brew install xcodegen ldid
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+
+      - name: Build (unsigned)
+        run: |
+          xcodebuild \
+            -project Lift.xcodeproj \
+            -scheme Lift \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            MARKETING_VERSION=1.0.${{ github.run_number }} \
+            CURRENT_PROJECT_VERSION=${{ github.run_number }} \
+            build
+
+      - name: Package IPA
+        run: |
+          mkdir Payload
+          cp -R build/Build/Products/Release-iphoneos/Lift.app Payload/
+
+          test -f Payload/Lift.app/Web/index.html || {
+            echo "Web/index.html is missing from the app"
+            exit 1
+          }
+
+          test -f Payload/Lift.app/Web/exercises.json || {
+            echo "Web/exercises.json is missing from the app"
+            exit 1
+          }
+
+          test -d Payload/Lift.app/PlugIns/LiftWidget.appex || {
+            echo "The widget is not embedded in the app"
+            find Payload -maxdepth 3
+            exit 1
+          }
+
+          # The build is unsigned. Put the App Group into the binaries so the sideloading tool keeps it.
+          ldid -SConfig/Lift.entitlements Payload/Lift.app/Lift
+          ldid -SConfig/Lift.entitlements Payload/Lift.app/PlugIns/LiftWidget.appex/LiftWidget
+
+          zip -qry Lift.ipa Payload
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.${{ github.run_number }}
+          name: Lift v1.0.${{ github.run_number }}
+          make_latest: true
+          files: Lift.ipa
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,3582 @@
+{
+  "groups": [
+    {
+      "name": "Back",
+      "count": 111
+    },
+    {
+      "name": "Biceps",
+      "count": 94
+    },
+    {
+      "name": "Calves",
+      "count": 34
+    },
+    {
+      "name": "Cardio",
+      "count": 26
+    },
+    {
+      "name": "Chest",
+      "count": 54
+    },
+    {
+      "name": "Core",
+      "count": 94
+    },
+    {
+      "name": "Forearms",
+      "count": 12
+    },
+    {
+      "name": "Shoulders",
+      "count": 63
+    },
+    {
+      "name": "Thighs",
+      "count": 102
+    }
+  ],
+  "exercises": [
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "45 Degree Hyperextension",
+      "imageUrl": "assets/female/back/45 Degree Hyperextension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Band Assisted Pull Up",
+      "imageUrl": "assets/female/back/Band Assisted Pull-up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Band Kneeling One Arm Pulldown",
+      "imageUrl": "assets/female/back/Band Kneeling One Arm Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Band One Leg Kickback (Bent Position)",
+      "imageUrl": "assets/female/back/Band One-Leg Kickback (Bent Position).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Band Seated Row",
+      "imageUrl": "assets/female/back/Band Seated Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Band Straight Back Seated Row",
+      "imageUrl": "assets/female/back/Band Straight-Back Seated Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Barbell Shrug",
+      "imageUrl": "assets/female/back/Barbell Shrug.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Barbell Underhand Bent Over Row",
+      "imageUrl": "assets/female/back/Barbell Underhand Bent-Over Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Bench Pull Up",
+      "imageUrl": "assets/female/back/Bench Pull-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Cable Close Grip Lat Pulldown",
+      "imageUrl": "assets/female/back/Cable Close Grip Lat Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Cable One Arm Lateral Pulldown",
+      "imageUrl": "assets/female/back/Cable One Arm Lateral Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Cable One Arm Twisting Seated Row",
+      "imageUrl": "assets/female/back/Cable One-Arm Twisting Seated Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Cable Pulldown",
+      "imageUrl": "assets/female/back/Cable Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Cable Seated High Row (V Bar)",
+      "imageUrl": "assets/female/back/Cable Seated High Row (V-bar).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Cable Straight Arm Pulldown",
+      "imageUrl": "assets/female/back/Cable Straight Arm Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Cambered Bar Lying Row",
+      "imageUrl": "assets/female/back/Cambered Bar Lying Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Chin Ups (Narrow Parallel Grip)",
+      "imageUrl": "assets/female/back/Chin-ups (narrow parallel grip).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Close Grip Chin Up",
+      "imageUrl": "assets/female/back/Close Grip Chin-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Commando Pull Up",
+      "imageUrl": "assets/female/back/Commando Pull-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Dumbbell Bent Over Row",
+      "imageUrl": "assets/female/back/Dumbbell Bent-Over Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Dumbbell Hammer Grip Incline Bench Row",
+      "imageUrl": "assets/female/back/Dumbbell Hammer Grip Incline Bench Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Dumbbell Incline Row",
+      "imageUrl": "assets/female/back/Dumbbell Incline Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Dumbbell Incline Shrug",
+      "imageUrl": "assets/female/back/Dumbbell Incline Shrug.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Dumbbell Lying Rear Delt Row",
+      "imageUrl": "assets/female/back/Dumbbell Lying Rear Delt Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Dumbbell Palm Rotational Bent Over Row",
+      "imageUrl": "assets/female/back/Dumbbell Palm Rotational Bent Over Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Dumbbell Shrug",
+      "imageUrl": "assets/female/back/Dumbbell Shrug.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Inverted Row Between Chairs",
+      "imageUrl": "assets/female/back/Inverted Row Between Chairs.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Inverted Row With Straps",
+      "imageUrl": "assets/female/back/Inverted Row With Straps.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Kettlebell Deadlift",
+      "imageUrl": "assets/female/back/Kettlebell Deadlift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Kneeling Lat Stretch",
+      "imageUrl": "assets/female/back/Kneeling Lat Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Lever Back Extension",
+      "imageUrl": "assets/female/back/Lever Back Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Lever High Row",
+      "imageUrl": "assets/female/back/Lever High Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Lever Reverse T Bar Row",
+      "imageUrl": "assets/female/back/Lever Reverse T-Bar Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Lever Shrug",
+      "imageUrl": "assets/female/back/Lever Shrug.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Lever T Bar Row",
+      "imageUrl": "assets/female/back/Lever T-Bar Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Neck Side Stretch",
+      "imageUrl": "assets/female/back/Neck Side Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Pull Up  Chin Up",
+      "imageUrl": "assets/female/back/Pull-Up  Chin-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Pull Up (Wide Grip)",
+      "imageUrl": "assets/female/back/Pull-Up (Wide Grip).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Reverse Grip Machine Lat Pulldown",
+      "imageUrl": "assets/female/back/Reverse Grip Machine Lat Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Reverse Grip Pull Up",
+      "imageUrl": "assets/female/back/Reverse Grip Pull-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Reverse Grip Cable Lat Pulldown",
+      "imageUrl": "assets/female/back/Reverse-Grip Cable Lat Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Ring High Row",
+      "imageUrl": "assets/female/back/Ring High Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Scapula Dips",
+      "imageUrl": "assets/female/back/Scapula Dips.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Seated Bent Over Back Stretch",
+      "imageUrl": "assets/female/back/Seated Bent Over Back Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Seated Cable Row (V Grip)",
+      "imageUrl": "assets/female/back/Seated Cable Row (V-Grip).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Seated Cable Row (Wide Grip)",
+      "imageUrl": "assets/female/back/Seated Cable Row (Wide-Grip).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Seated Lower Back Stretch",
+      "imageUrl": "assets/female/back/Seated Lower Back Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Seated Wide Angle Pose Sequence",
+      "imageUrl": "assets/female/back/Seated Wide Angle Pose Sequence.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Shoulder Width Pull Up",
+      "imageUrl": "assets/female/back/Shoulder-Width Pull-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Side Bend Stretch",
+      "imageUrl": "assets/female/back/Side Bend Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Single Dumbbell Stiff Leg Deadlift",
+      "imageUrl": "assets/female/back/Single Dumbbell Stiff-Leg Deadlift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Spine Stretch",
+      "imageUrl": "assets/female/back/Spine Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Standing Back Rotation Stretch",
+      "imageUrl": "assets/female/back/Standing Back Rotation Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Back",
+      "name": "Wide Grip Cable Lat Pulldown",
+      "imageUrl": "assets/female/back/Wide Grip Cable Lat Pulldown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Burpee",
+      "imageUrl": "assets/female/cardio/Burpee.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Cardio Exercise",
+      "imageUrl": "assets/female/cardio/Cardio Exercise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Cardio Machine Exercise",
+      "imageUrl": "assets/female/cardio/Cardio Machine Exercise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Elliptical Trainer",
+      "imageUrl": "assets/female/cardio/Elliptical Trainer.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Jump Rope",
+      "imageUrl": "assets/female/cardio/Jump Rope.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Jumping Jack",
+      "imageUrl": "assets/female/cardio/Jumping Jack.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Plyometric Side Lunge Stretch",
+      "imageUrl": "assets/female/cardio/Plyometric Side Lunge Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Running",
+      "imageUrl": "assets/female/cardio/Running.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Single Leg Stretch (Bent Knee)",
+      "imageUrl": "assets/female/cardio/Single Leg Stretch (Bent Knee).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Single Straight Leg Stretch",
+      "imageUrl": "assets/female/cardio/Single Straight Leg Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Stationary Bike",
+      "imageUrl": "assets/female/cardio/Stationary Bike.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Treadmill Running",
+      "imageUrl": "assets/female/cardio/Treadmill Running.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Cardio",
+      "name": "Walk Wave Machine",
+      "imageUrl": "assets/female/cardio/Walk Wave Machine.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Barbell Bench Press",
+      "imageUrl": "assets/female/chest/Barbell Bench Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Barbell Decline Bench Press",
+      "imageUrl": "assets/female/chest/Barbell Decline Bench Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Barbell Incline Bench Press",
+      "imageUrl": "assets/female/chest/Barbell Incline Bench Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Cable Standing Fly",
+      "imageUrl": "assets/female/chest/Cable Standing Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Chest Dips",
+      "imageUrl": "assets/female/chest/Chest Dips.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Decline Dumbbell Bench Press",
+      "imageUrl": "assets/female/chest/Decline Dumbbell Bench Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Deep Push Up",
+      "imageUrl": "assets/female/chest/Deep Push-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dumbbell Fly On Exercise Ball",
+      "imageUrl": "assets/female/chest/Dumbbell Fly On Exercise Ball.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dumbbell Fly",
+      "imageUrl": "assets/female/chest/Dumbbell Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dumbbell Incline Bench Press",
+      "imageUrl": "assets/female/chest/Dumbbell Incline Bench Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dumbbell Incline Fly On Exercise Ball",
+      "imageUrl": "assets/female/chest/Dumbbell Incline Fly On Exercise Ball.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dumbbell Incline Fly",
+      "imageUrl": "assets/female/chest/Dumbbell Incline Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dumbbell Incline Hammer Press",
+      "imageUrl": "assets/female/chest/Dumbbell Incline Hammer Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dumbbell Lying Hammer Press",
+      "imageUrl": "assets/female/chest/Dumbbell Lying Hammer Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Dynamic Chest Stretch",
+      "imageUrl": "assets/female/chest/Dynamic Chest Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Flat Bench Cable Fly",
+      "imageUrl": "assets/female/chest/Flat Bench Cable Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Incline Push Up",
+      "imageUrl": "assets/female/chest/Incline Push-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Kneeling Back Rotation Stretch",
+      "imageUrl": "assets/female/chest/Kneeling Back Rotation Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Lever Incline Hammer Chest Press",
+      "imageUrl": "assets/female/chest/Lever Incline Hammer Chest Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Lever Lying Chest Press",
+      "imageUrl": "assets/female/chest/Lever Lying Chest Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Overhead Chest Stretch",
+      "imageUrl": "assets/female/chest/Overhead Chest Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Pec Deck Fly",
+      "imageUrl": "assets/female/chest/Pec Deck Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Push Up",
+      "imageUrl": "assets/female/chest/Push-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Resistance Band High Fly",
+      "imageUrl": "assets/female/chest/Resistance Band High Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Rotational Push Up",
+      "imageUrl": "assets/female/chest/Rotational Push-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Standing Reach Up Back Rotation Stretch",
+      "imageUrl": "assets/female/chest/Standing Reach Up Back Rotation Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Chest",
+      "name": "Standing Wheel Rollout",
+      "imageUrl": "assets/female/chest/Standing Wheel Rollout.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "All Fours Groin Stretch",
+      "imageUrl": "assets/female/hips/All Fours Groin Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Band Hip Adduction",
+      "imageUrl": "assets/female/hips/Band Hip Adduction.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Close Feet Leg Press",
+      "imageUrl": "assets/female/hips/Close Feet Leg Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Standing Rear Kick",
+      "imageUrl": "assets/female/hips/Lever Standing Rear Kick.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Seated Boat Stretch",
+      "imageUrl": "assets/female/hips/Seated Boat Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Squat",
+      "imageUrl": "assets/female/hips/Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Standing Adductor Stretch",
+      "imageUrl": "assets/female/hips/Standing Adductor Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Standing Hip Flexor And Abdominal Stretch",
+      "imageUrl": "assets/female/hips/Standing Hip Flexor and Abdominal Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Forearms",
+      "name": "Barbell Reverse Wrist Curl",
+      "imageUrl": "assets/female/lower arms/Barbell Reverse Wrist Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Forearms",
+      "name": "Barbell Standing Back Wrist Curl",
+      "imageUrl": "assets/female/lower arms/Barbell Standing Back Wrist Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Forearms",
+      "name": "Dumbbell Behind The Back Wrist Curl",
+      "imageUrl": "assets/female/lower arms/Dumbbell Behind-the-Back Wrist Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Forearms",
+      "name": "Dumbbell Over Bench Wrist Curl",
+      "imageUrl": "assets/female/lower arms/Dumbbell Over Bench Wrist Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Forearms",
+      "name": "Side Wrist Pull Stretch",
+      "imageUrl": "assets/female/lower arms/Side Wrist Pull Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Forearms",
+      "name": "Wrist Circles",
+      "imageUrl": "assets/female/lower arms/Wrist Circles.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Band Standing Calf Raise",
+      "imageUrl": "assets/female/lower legs/Band Standing Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Calf Stretch With Rope",
+      "imageUrl": "assets/female/lower legs/Calf Stretch with Rope.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Calf Stretch With Strap",
+      "imageUrl": "assets/female/lower legs/Calf Stretch with Strap.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Donkey Calf Raise",
+      "imageUrl": "assets/female/lower legs/Donkey Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Dumbbell Seated Calf Raise",
+      "imageUrl": "assets/female/lower legs/Dumbbell Seated Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Dumbbell Single Leg Calf Raise",
+      "imageUrl": "assets/female/lower legs/Dumbbell Single Leg Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Dumbbell Standing Calf Raise",
+      "imageUrl": "assets/female/lower legs/Dumbbell Standing Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Feet And Ankles Rotation Stretch",
+      "imageUrl": "assets/female/lower legs/Feet and Ankles Rotation Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Feet And Ankles Stretch",
+      "imageUrl": "assets/female/lower legs/Feet and Ankles Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Lever Seated Calf Raise",
+      "imageUrl": "assets/female/lower legs/Lever Seated Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Lever Standing Calf Raise",
+      "imageUrl": "assets/female/lower legs/Lever Standing Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Peroneals Stretch",
+      "imageUrl": "assets/female/lower legs/Peroneals Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Seated Calf Stretch",
+      "imageUrl": "assets/female/lower legs/Seated Calf Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Sled 45 Degree Calf Press",
+      "imageUrl": "assets/female/lower legs/Sled 45 Degree Calf Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Smith Machine Calf Raise",
+      "imageUrl": "assets/female/lower legs/Smith Machine Calf Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Stairs Calf Stretch",
+      "imageUrl": "assets/female/lower legs/Stairs Calf Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Calves",
+      "name": "Standing Bench Calf Stretch",
+      "imageUrl": "assets/female/lower legs/Standing Bench Calf Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Band Bent Over Rear Lateral Raise",
+      "imageUrl": "assets/female/shoulders/Band Bent-Over Rear Lateral Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Band One Arm Front Raise",
+      "imageUrl": "assets/female/shoulders/Band One Arm Front Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Band Shoulder Warm Up Stretch",
+      "imageUrl": "assets/female/shoulders/Band Shoulder Warm-Up Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Barbell Front Raise",
+      "imageUrl": "assets/female/shoulders/Barbell Front Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Barbell Rear Delt Raise",
+      "imageUrl": "assets/female/shoulders/Barbell Rear Delt Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Barbell Seated Behind The Neck Press",
+      "imageUrl": "assets/female/shoulders/Barbell Seated Behind-The-Neck Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Barbell Wide Grip Upright Row",
+      "imageUrl": "assets/female/shoulders/Barbell Wide-Grip Upright Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Battling Ropes",
+      "imageUrl": "assets/female/shoulders/Battling Ropes.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Cable Crossover Reverse Fly",
+      "imageUrl": "assets/female/shoulders/Cable Crossover Reverse Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Cable Lateral Raise",
+      "imageUrl": "assets/female/shoulders/Cable Lateral Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Cable One Arm Front Raise",
+      "imageUrl": "assets/female/shoulders/Cable One Arm Front Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Cable One Arm Lateral Raise",
+      "imageUrl": "assets/female/shoulders/Cable One Arm Lateral Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Cable Rear Delt Row (With Rope)",
+      "imageUrl": "assets/female/shoulders/Cable Rear Delt Row (with rope).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Alternating Shoulder Press",
+      "imageUrl": "assets/female/shoulders/Dumbbell Alternating Shoulder Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Arnold Press",
+      "imageUrl": "assets/female/shoulders/Dumbbell Arnold Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Front Raise",
+      "imageUrl": "assets/female/shoulders/Dumbbell Front Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Iron Cross",
+      "imageUrl": "assets/female/shoulders/Dumbbell Iron Cross.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Lateral Raise",
+      "imageUrl": "assets/female/shoulders/Dumbbell Lateral Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell One Arm Lateral Raise",
+      "imageUrl": "assets/female/shoulders/Dumbbell One Arm Lateral Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Rear Delt Row",
+      "imageUrl": "assets/female/shoulders/Dumbbell Rear Delt Row.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Seated Front Raise",
+      "imageUrl": "assets/female/shoulders/Dumbbell Seated Front Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Dumbbell Seated Lateral Raise",
+      "imageUrl": "assets/female/shoulders/Dumbbell Seated Lateral Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Ez Barbell Anti Gravity Press",
+      "imageUrl": "assets/female/shoulders/EZ Barbell Anti Gravity Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Lever Lateral Raise",
+      "imageUrl": "assets/female/shoulders/Lever Lateral Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Lever Seated Reverse Fly",
+      "imageUrl": "assets/female/shoulders/Lever Seated Reverse Fly.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Military Press",
+      "imageUrl": "assets/female/shoulders/Military Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Rear Deltoid Stretch",
+      "imageUrl": "assets/female/shoulders/Rear Deltoid Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Seated Dumbbell Shoulder Press",
+      "imageUrl": "assets/female/shoulders/Seated Dumbbell Shoulder Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Seated Shoulder Flexor, Depressor, Retractor Stretch",
+      "imageUrl": "assets/female/shoulders/Seated Shoulder Flexor, Depressor, Retractor Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Shoulders",
+      "name": "Smith Seated Shoulder Press",
+      "imageUrl": "assets/female/shoulders/Smith Seated Shoulder Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Band Overhead Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Band Overhead Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Band Triceps Pushdown",
+      "imageUrl": "assets/female/upper arms/Band Triceps Pushdown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Barbell Curl",
+      "imageUrl": "assets/female/upper arms/Barbell Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Barbell Drag Curl",
+      "imageUrl": "assets/female/upper arms/Barbell Drag Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Bench Dips",
+      "imageUrl": "assets/female/upper arms/Bench Dips.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Butterfly Yoga Pose",
+      "imageUrl": "assets/female/upper arms/Butterfly Yoga Pose.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Cable Lying Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Cable Lying Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Cable One Arm Curl",
+      "imageUrl": "assets/female/upper arms/Cable One Arm Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Cable Rope Overhead Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Cable Rope Overhead Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Cable Rope Triceps Pushdown",
+      "imageUrl": "assets/female/upper arms/Cable Rope Triceps Pushdown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Cable Standing Inner Curl",
+      "imageUrl": "assets/female/upper arms/Cable Standing Inner Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Cable Standing One Arm Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Cable Standing One Arm Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Cable Triceps Pushdown",
+      "imageUrl": "assets/female/upper arms/Cable Triceps Pushdown.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Close Grip Push Up",
+      "imageUrl": "assets/female/upper arms/Close-Grip Push-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Biceps Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Biceps Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Close Grip Press",
+      "imageUrl": "assets/female/upper arms/Dumbbell Close-Grip Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Concentration Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Concentration Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Cross Body Hammer Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Cross Body Hammer Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Biceps Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Incline Biceps Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Incline Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Hammer Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Incline Hammer Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Dumbbell Incline Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Kickback",
+      "imageUrl": "assets/female/upper arms/Dumbbell Kickback.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Lying Alternate Extension",
+      "imageUrl": "assets/female/upper arms/Dumbbell Lying Alternate Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Lying Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Dumbbell Lying Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell One Arm Zottman Preacher Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell One Arm Zottman Preacher Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell One Arm Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Dumbbell One-Arm Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Preacher Curl Over Exercise Ball",
+      "imageUrl": "assets/female/upper arms/Dumbbell Preacher Curl Over Exercise Ball.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Pronate Grip Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Dumbbell Pronate-grip Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Prone Incline Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Prone Incline Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Kickback",
+      "imageUrl": "assets/female/upper arms/Dumbbell Seated Kickback.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Neutral Wrist Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Seated Neutral Wrist Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Preacher Curl",
+      "imageUrl": "assets/female/upper arms/Dumbbell Seated Preacher Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Dumbbell Seated Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Ez Bar Biceps Curl",
+      "imageUrl": "assets/female/upper arms/EZ Bar Biceps Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Ez Bar Lying Triceps Extension",
+      "imageUrl": "assets/female/upper arms/EZ Bar Lying Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Kneeling Triceps Stretch",
+      "imageUrl": "assets/female/upper arms/Kneeling Triceps Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Lever Preacher Curl",
+      "imageUrl": "assets/female/upper arms/Lever Preacher Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Lever Seated Dip",
+      "imageUrl": "assets/female/upper arms/Lever Seated Dip.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Lever Triceps Extension",
+      "imageUrl": "assets/female/upper arms/Lever Triceps Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Old School Reverse Extensions",
+      "imageUrl": "assets/female/upper arms/Old School Reverse Extensions.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Reverse Dip Stretch",
+      "imageUrl": "assets/female/upper arms/Reverse Dip Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Seated Alternating Dumbbell Curl",
+      "imageUrl": "assets/female/upper arms/Seated Alternating Dumbbell Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Stability Ball Leg Curl",
+      "imageUrl": "assets/female/upper arms/Stability Ball Leg Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Supine Dumbbell Biceps Curl",
+      "imageUrl": "assets/female/upper arms/Supine Dumbbell Biceps Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Biceps",
+      "name": "Triceps Dips",
+      "imageUrl": "assets/female/upper arms/Triceps Dips.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Band Hip Abduction",
+      "imageUrl": "assets/female/upper legs/Band Hip Abduction.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Band Prone Leg Curl",
+      "imageUrl": "assets/female/upper legs/Band Prone Leg Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Band Pull Through",
+      "imageUrl": "assets/female/upper legs/Band Pull Through.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Band Seated Leg Extension",
+      "imageUrl": "assets/female/upper legs/Band Seated Leg Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Band Standing Leg Curl",
+      "imageUrl": "assets/female/upper legs/Band Standing Leg Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Barbell Back Squat",
+      "imageUrl": "assets/female/upper legs/Barbell Back Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Barbell Clean And Press",
+      "imageUrl": "assets/female/upper legs/Barbell Clean And Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Barbell Front Squat",
+      "imageUrl": "assets/female/upper legs/Barbell Front Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Barbell Lunge",
+      "imageUrl": "assets/female/upper legs/Barbell Lunge.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Barbell Straight Leg Deadlift",
+      "imageUrl": "assets/female/upper legs/Barbell Straight Leg Deadlift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Bent Knee Lying Twist On Stability Ball",
+      "imageUrl": "assets/female/upper legs/Bent Knee Lying Twist on Stability Ball.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Deadlift",
+      "imageUrl": "assets/female/upper legs/Dumbbell Deadlift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Goblet Squat",
+      "imageUrl": "assets/female/upper legs/Dumbbell Goblet Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Lunge",
+      "imageUrl": "assets/female/upper legs/Dumbbell Lunge.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Lying Leg Curl",
+      "imageUrl": "assets/female/upper legs/Dumbbell Lying Leg Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Single Leg Squat",
+      "imageUrl": "assets/female/upper legs/Dumbbell Single Leg Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Squat",
+      "imageUrl": "assets/female/upper legs/Dumbbell Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Stiff Leg Deadlift",
+      "imageUrl": "assets/female/upper legs/Dumbbell Stiff Leg Deadlift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Dumbbell Sumo Squat",
+      "imageUrl": "assets/female/upper legs/Dumbbell Sumo Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Front Toe Touch Stretch",
+      "imageUrl": "assets/female/upper legs/Front Toe Touch Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Glute Bridge",
+      "imageUrl": "assets/female/upper legs/Glute Bridge.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Hip Circles Stretch",
+      "imageUrl": "assets/female/upper legs/Hip Circles Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Hip Flexor And Quadriceps Stretch",
+      "imageUrl": "assets/female/upper legs/Hip Flexor and Quadriceps Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Jump Step Up",
+      "imageUrl": "assets/female/upper legs/Jump Step-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Horizontal Leg Press",
+      "imageUrl": "assets/female/upper legs/Lever Horizontal Leg Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Kneeling Leg Curl",
+      "imageUrl": "assets/female/upper legs/Lever Kneeling Leg Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Leg Extension",
+      "imageUrl": "assets/female/upper legs/Lever Leg Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Lying Leg Curl",
+      "imageUrl": "assets/female/upper legs/Lever Lying Leg Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Reverse Hyperextension",
+      "imageUrl": "assets/female/upper legs/Lever Reverse Hyperextension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Seated Hip Abduction",
+      "imageUrl": "assets/female/upper legs/Lever Seated Hip Abduction.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Seated Hip Adduction",
+      "imageUrl": "assets/female/upper legs/Lever Seated Hip Adduction.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Seated Leg Curl",
+      "imageUrl": "assets/female/upper legs/Lever Seated Leg Curl.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lever Standing Hip Extension",
+      "imageUrl": "assets/female/upper legs/Lever Standing Hip Extension.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Lying Quadriceps Stretch",
+      "imageUrl": "assets/female/upper legs/Lying Quadriceps Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Rear Decline Bridge",
+      "imageUrl": "assets/female/upper legs/Rear Decline Bridge.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Runner'S Stretch",
+      "imageUrl": "assets/female/upper legs/Runner's Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Sled 45 Degree Wide Leg Press",
+      "imageUrl": "assets/female/upper legs/Sled 45 Degree Wide Leg Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Sled Hack Squat",
+      "imageUrl": "assets/female/upper legs/Sled Hack Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Smith Chair Squat",
+      "imageUrl": "assets/female/upper legs/Smith Chair Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Smith Machine Leg Press",
+      "imageUrl": "assets/female/upper legs/Smith Machine Leg Press.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Standing Hamstring Stretch",
+      "imageUrl": "assets/female/upper legs/Standing Hamstring Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Standing Knee Raise Stretch",
+      "imageUrl": "assets/female/upper legs/Standing Knee Raise Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Standing Quadriceps Stretch",
+      "imageUrl": "assets/female/upper legs/Standing Quadriceps Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Thighs",
+      "name": "Weighted Sissy Squat",
+      "imageUrl": "assets/female/upper legs/Weighted Sissy Squat.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "45 Degree Bicycle Twisting Crunch",
+      "imageUrl": "assets/female/waist/45-Degree Bicycle Twisting Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Band Resisted Decline Sit Up",
+      "imageUrl": "assets/female/waist/Band Resisted Decline Sit-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Band Side Bend",
+      "imageUrl": "assets/female/waist/Band Side Bend.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Band Standing Crunch",
+      "imageUrl": "assets/female/waist/Band Standing Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Band Standing Lift",
+      "imageUrl": "assets/female/waist/Band Standing Lift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Bench Crunch",
+      "imageUrl": "assets/female/waist/Bench Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Bridge Pose (Setu Bandhasana)",
+      "imageUrl": "assets/female/waist/Bridge Pose (Setu Bandhasana).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Cable Kneeling Crunch",
+      "imageUrl": "assets/female/waist/Cable Kneeling Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Cable Standing Crunch",
+      "imageUrl": "assets/female/waist/Cable Standing Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Cable Standing Lift",
+      "imageUrl": "assets/female/waist/Cable Standing Lift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Cable Twist (Up Down)",
+      "imageUrl": "assets/female/waist/Cable Twist (up-down).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Chest Lift With Rotation",
+      "imageUrl": "assets/female/waist/Chest Lift with Rotation.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Chin To Chest Stretch",
+      "imageUrl": "assets/female/waist/Chin-to-Chest Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Crossover Kneeling Hip Flexor Stretch",
+      "imageUrl": "assets/female/waist/Crossover Kneeling Hip Flexor Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Dumbbell Side Bend",
+      "imageUrl": "assets/female/waist/Dumbbell Side Bend.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Exercise Ball Sit Up",
+      "imageUrl": "assets/female/waist/Exercise Ball Sit-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Exercise Ball Spinal Stretch",
+      "imageUrl": "assets/female/waist/Exercise Ball Spinal Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Flexion Leg Sit Up Stretch",
+      "imageUrl": "assets/female/waist/Flexion Leg Sit-Up Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Floor Crunch",
+      "imageUrl": "assets/female/waist/Floor Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Front Plank",
+      "imageUrl": "assets/female/waist/Front Plank.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Hanging Leg Hip Raise",
+      "imageUrl": "assets/female/waist/Hanging Leg Hip Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Hanging Straight Leg Raise",
+      "imageUrl": "assets/female/waist/Hanging Straight Leg Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Hip Extension Stretch",
+      "imageUrl": "assets/female/waist/Hip Extension Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Incline Leg Hip Raise",
+      "imageUrl": "assets/female/waist/Incline Leg Hip Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Iron Cross Stretch",
+      "imageUrl": "assets/female/waist/Iron Cross Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Jackknife Floor",
+      "imageUrl": "assets/female/waist/Jackknife Floor.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Jackknife Split Crunch",
+      "imageUrl": "assets/female/waist/Jackknife Split Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Jackknife",
+      "imageUrl": "assets/female/waist/Jackknife.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Landmine 180",
+      "imageUrl": "assets/female/waist/Landmine 180.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Leg Raise Crunch",
+      "imageUrl": "assets/female/waist/Leg Raise Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Leg Raise With Hip Lift",
+      "imageUrl": "assets/female/waist/Leg Raise with Hip Lift.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Lying Hip Lift On Stability Ball",
+      "imageUrl": "assets/female/waist/Lying Hip Lift on Stability Ball.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Lying Leg Raise",
+      "imageUrl": "assets/female/waist/Lying Leg Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Lying Scissor Kick",
+      "imageUrl": "assets/female/waist/Lying Scissor Kick.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Lying Straight Leg Raise",
+      "imageUrl": "assets/female/waist/Lying Straight Leg Raise.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Medicine Ball Wall Sit Up",
+      "imageUrl": "assets/female/waist/Medicine Ball Wall Sit-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Otis Up",
+      "imageUrl": "assets/female/waist/Otis-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Pilates Corkscrew",
+      "imageUrl": "assets/female/waist/Pilates Corkscrew.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Pilates Hundred",
+      "imageUrl": "assets/female/waist/Pilates Hundred.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Rear Foot Elevated Hip Flexor Stretch",
+      "imageUrl": "assets/female/waist/Rear Foot Elevated Hip Flexor Stretch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Reverse Crunch",
+      "imageUrl": "assets/female/waist/Reverse Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Russian Twist On Stability Ball (Arms Straight)",
+      "imageUrl": "assets/female/waist/Russian Twist on Stability Ball (Arms Straight).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Seated Straight Arm Twist",
+      "imageUrl": "assets/female/waist/Seated Straight Arm Twist.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Seated Twist On Stability Ball",
+      "imageUrl": "assets/female/waist/Seated Twist on Stability Ball.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Seated Twist Stretch (Straight Arm)",
+      "imageUrl": "assets/female/waist/Seated Twist Stretch (Straight Arm).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Side Bend On Stability Ball",
+      "imageUrl": "assets/female/waist/Side Bend on Stability Ball.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Side Plank",
+      "imageUrl": "assets/female/waist/Side Plank.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Sit Up",
+      "imageUrl": "assets/female/waist/Sit-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Spell Caster",
+      "imageUrl": "assets/female/waist/Spell Caster.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Stability Ball Leg Elevated Crunch",
+      "imageUrl": "assets/female/waist/Stability Ball Leg Elevated Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Standing Side Bend Stretch (Bent Arm)",
+      "imageUrl": "assets/female/waist/Standing Side Bend Stretch (Bent Arm).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Straight Leg Up Crunch",
+      "imageUrl": "assets/female/waist/Straight-Leg Up Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Twisting Crunch",
+      "imageUrl": "assets/female/waist/Twisting Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "V Up",
+      "imageUrl": "assets/female/waist/V-Up.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Vertical Leg Raise (On Parallel Bars)",
+      "imageUrl": "assets/female/waist/Vertical Leg Raise (on parallel bars).mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Weighted Leg Extension Crunch",
+      "imageUrl": "assets/female/waist/Weighted Leg Extension Crunch.mp4"
+    },
+    {
+      "gender": "female",
+      "group": "Core",
+      "name": "Weighted Lying Twist",
+      "imageUrl": "assets/female/waist/Weighted Lying Twist.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "45 Degree Hyperextension",
+      "imageUrl": "assets/male/back/45 Degree Hyperextension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Band Assisted Pull Up",
+      "imageUrl": "assets/male/back/Band Assisted Pull-up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Band Kneeling One Arm Pulldown",
+      "imageUrl": "assets/male/back/Band Kneeling One Arm Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Band One Leg Kickback (Bent Position)",
+      "imageUrl": "assets/male/back/Band One-Leg Kickback (Bent Position).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Band Seated Row",
+      "imageUrl": "assets/male/back/Band Seated Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Band Straight Back Seated Row",
+      "imageUrl": "assets/male/back/Band Straight-Back Seated Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Barbell Shrug",
+      "imageUrl": "assets/male/back/Barbell Shrug.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Barbell Underhand Bent Over Row",
+      "imageUrl": "assets/male/back/Barbell Underhand Bent-Over Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Bench Pull Up",
+      "imageUrl": "assets/male/back/Bench Pull-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Cable Close Grip Lat Pulldown",
+      "imageUrl": "assets/male/back/Cable Close Grip Lat Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Cable One Arm Lateral Pulldown",
+      "imageUrl": "assets/male/back/Cable One Arm Lateral Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Cable One Arm Twisting Seated Row",
+      "imageUrl": "assets/male/back/Cable One-Arm Twisting Seated Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Cable Pulldown",
+      "imageUrl": "assets/male/back/Cable Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Cable Seated High Row (V Bar)",
+      "imageUrl": "assets/male/back/Cable Seated High Row (V-bar).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Cable Straight Arm Pulldown",
+      "imageUrl": "assets/male/back/Cable Straight Arm Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Cambered Bar Lying Row",
+      "imageUrl": "assets/male/back/Cambered Bar Lying Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Chin Ups (Narrow Parallel Grip)",
+      "imageUrl": "assets/male/back/Chin-ups (narrow parallel grip).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Close Grip Chin Up",
+      "imageUrl": "assets/male/back/Close Grip Chin-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Commando Pull Up",
+      "imageUrl": "assets/male/back/Commando Pull-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Dumbbell Bent Over Row",
+      "imageUrl": "assets/male/back/Dumbbell Bent-Over Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Dumbbell Hammer Grip Incline Bench Row",
+      "imageUrl": "assets/male/back/Dumbbell Hammer Grip Incline Bench Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Dumbbell Incline Row",
+      "imageUrl": "assets/male/back/Dumbbell Incline Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Dumbbell Incline Shrug",
+      "imageUrl": "assets/male/back/Dumbbell Incline Shrug.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Dumbbell Lying Rear Delt Row",
+      "imageUrl": "assets/male/back/Dumbbell Lying Rear Delt Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Dumbbell Palm Rotational Bent Over Row",
+      "imageUrl": "assets/male/back/Dumbbell Palm Rotational Bent Over Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Dumbbell Shrug",
+      "imageUrl": "assets/male/back/Dumbbell Shrug.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Inverted Row Between Chairs",
+      "imageUrl": "assets/male/back/Inverted Row Between Chairs.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Inverted Row With Straps",
+      "imageUrl": "assets/male/back/Inverted Row With Straps.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Kettlebell Deadlift",
+      "imageUrl": "assets/male/back/Kettlebell Deadlift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Kneeling Lat Stretch",
+      "imageUrl": "assets/male/back/Kneeling Lat Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Lever Back Extension",
+      "imageUrl": "assets/male/back/Lever Back Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Lever High Row",
+      "imageUrl": "assets/male/back/Lever High Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Lever Reverse T Bar Row",
+      "imageUrl": "assets/male/back/Lever Reverse T-Bar Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Lever Shrug",
+      "imageUrl": "assets/male/back/Lever Shrug.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Lever T Bar Row",
+      "imageUrl": "assets/male/back/Lever T-Bar Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Middle Back Stretch",
+      "imageUrl": "assets/male/back/Middle Back Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Neck Side Stretch",
+      "imageUrl": "assets/male/back/Neck Side Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Pull Up  Chin Up",
+      "imageUrl": "assets/male/back/Pull-Up  Chin-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Pull Up (Wide Grip)",
+      "imageUrl": "assets/male/back/Pull-Up (Wide Grip).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Reverse Grip Machine Lat Pulldown",
+      "imageUrl": "assets/male/back/Reverse Grip Machine Lat Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Reverse Grip Pull Up",
+      "imageUrl": "assets/male/back/Reverse Grip Pull-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Reverse Grip Cable Lat Pulldown",
+      "imageUrl": "assets/male/back/Reverse-Grip Cable Lat Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Ring High Row",
+      "imageUrl": "assets/male/back/Ring High Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Scapula Dips",
+      "imageUrl": "assets/male/back/Scapula Dips.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Seated Bent Over Back Stretch",
+      "imageUrl": "assets/male/back/Seated Bent Over Back Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Seated Cable Row (V Grip)",
+      "imageUrl": "assets/male/back/Seated Cable Row (V-Grip).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Seated Cable Row (Wide Grip)",
+      "imageUrl": "assets/male/back/Seated Cable Row (Wide-Grip).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Seated Lower Back Stretch",
+      "imageUrl": "assets/male/back/Seated Lower Back Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Seated Wide Angle Pose Sequence",
+      "imageUrl": "assets/male/back/Seated Wide Angle Pose Sequence.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Shoulder Width Pull Up",
+      "imageUrl": "assets/male/back/Shoulder-Width Pull-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Side Bend Stretch",
+      "imageUrl": "assets/male/back/Side Bend Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Single Dumbbell Stiff Leg Deadlift",
+      "imageUrl": "assets/male/back/Single Dumbbell Stiff-Leg Deadlift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Smith Machine Deadlift",
+      "imageUrl": "assets/male/back/Smith Machine Deadlift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Spine Stretch",
+      "imageUrl": "assets/male/back/Spine Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Standing Back Rotation Stretch",
+      "imageUrl": "assets/male/back/Standing Back Rotation Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Standing Lateral Stretch",
+      "imageUrl": "assets/male/back/Standing Lateral Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Back",
+      "name": "Wide Grip Cable Lat Pulldown",
+      "imageUrl": "assets/male/back/Wide Grip Cable Lat Pulldown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Burpee",
+      "imageUrl": "assets/male/cardio/Burpee.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Cardio Exercise",
+      "imageUrl": "assets/male/cardio/Cardio Exercise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Cardio Machine Workouts",
+      "imageUrl": "assets/male/cardio/Cardio Machine Workouts.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Elliptical Trainer",
+      "imageUrl": "assets/male/cardio/Elliptical Trainer.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Jump Rope",
+      "imageUrl": "assets/male/cardio/Jump Rope.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Jumping Jack",
+      "imageUrl": "assets/male/cardio/Jumping Jack.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Plyometric Side Lunge Stretch",
+      "imageUrl": "assets/male/cardio/Plyometric Side Lunge Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Running",
+      "imageUrl": "assets/male/cardio/Running.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Single Leg Stretch (Bent Knee)",
+      "imageUrl": "assets/male/cardio/Single Leg Stretch (Bent Knee).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Single Straight Leg Stretch",
+      "imageUrl": "assets/male/cardio/Single Straight Leg Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Stationary Bike",
+      "imageUrl": "assets/male/cardio/Stationary Bike.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Treadmill Running",
+      "imageUrl": "assets/male/cardio/Treadmill Running.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Cardio",
+      "name": "Walk Wave Machine",
+      "imageUrl": "assets/male/cardio/Walk Wave Machine.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Barbell Bench Press",
+      "imageUrl": "assets/male/chest/Barbell Bench Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Barbell Decline Bench Press",
+      "imageUrl": "assets/male/chest/Barbell Decline Bench Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Barbell Incline Bench Press",
+      "imageUrl": "assets/male/chest/Barbell Incline Bench Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Cable Standing Fly",
+      "imageUrl": "assets/male/chest/Cable Standing Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Chest Dips",
+      "imageUrl": "assets/male/chest/Chest Dips.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Decline Dumbbell Bench Press",
+      "imageUrl": "assets/male/chest/Decline Dumbbell Bench Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Decline Dumbbell Fly",
+      "imageUrl": "assets/male/chest/Decline Dumbbell Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Deep Push Up",
+      "imageUrl": "assets/male/chest/Deep Push-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dumbbell Fly On Exercise Ball",
+      "imageUrl": "assets/male/chest/Dumbbell Fly On Exercise Ball.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dumbbell Fly",
+      "imageUrl": "assets/male/chest/Dumbbell Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dumbbell Incline Bench Press",
+      "imageUrl": "assets/male/chest/Dumbbell Incline Bench Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dumbbell Incline Fly On Exercise Ball",
+      "imageUrl": "assets/male/chest/Dumbbell Incline Fly On Exercise Ball.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dumbbell Incline Fly",
+      "imageUrl": "assets/male/chest/Dumbbell Incline Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dumbbell Incline Hammer Press",
+      "imageUrl": "assets/male/chest/Dumbbell Incline Hammer Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dumbbell Lying Hammer Press",
+      "imageUrl": "assets/male/chest/Dumbbell Lying Hammer Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Dynamic Chest Stretch",
+      "imageUrl": "assets/male/chest/Dynamic Chest Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Flat Bench Cable Fly",
+      "imageUrl": "assets/male/chest/Flat Bench Cable Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Incline Push Up",
+      "imageUrl": "assets/male/chest/Incline Push-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Kneeling Back Rotation Stretch",
+      "imageUrl": "assets/male/chest/Kneeling Back Rotation Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Lever Incline Hammer Chest Press",
+      "imageUrl": "assets/male/chest/Lever Incline Hammer Chest Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Lever Lying Chest Press",
+      "imageUrl": "assets/male/chest/Lever Lying Chest Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Overhead Chest Stretch",
+      "imageUrl": "assets/male/chest/Overhead Chest Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Pec Deck Fly",
+      "imageUrl": "assets/male/chest/Pec Deck Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Push Up",
+      "imageUrl": "assets/male/chest/Push-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Resistance Band High Fly",
+      "imageUrl": "assets/male/chest/Resistance Band High Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Standing Reach Up Back Rotation Stretch",
+      "imageUrl": "assets/male/chest/Standing Reach Up Back Rotation Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Chest",
+      "name": "Standing Wheel Rollout",
+      "imageUrl": "assets/male/chest/Standing Wheel Rollout.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "All Fours Groin Stretch",
+      "imageUrl": "assets/male/hips/All Fours Groin Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Band Hip Adduction",
+      "imageUrl": "assets/male/hips/Band Hip Adduction.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Close Feet Leg Press",
+      "imageUrl": "assets/male/hips/Close Feet Leg Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Standing Rear Kick",
+      "imageUrl": "assets/male/hips/Lever Standing Rear Kick.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Seated Boat Stretch",
+      "imageUrl": "assets/male/hips/Seated Boat Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Squat",
+      "imageUrl": "assets/male/hips/Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Standing Adductor Stretch",
+      "imageUrl": "assets/male/hips/Standing Adductor Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Standing Hip Flexor And Abdominal Stretch",
+      "imageUrl": "assets/male/hips/Standing Hip Flexor and Abdominal Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Forearms",
+      "name": "Barbell Reverse Wrist Curl",
+      "imageUrl": "assets/male/lower arms/Barbell Reverse Wrist Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Forearms",
+      "name": "Barbell Standing Back Wrist Curl",
+      "imageUrl": "assets/male/lower arms/Barbell Standing Back Wrist Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Forearms",
+      "name": "Dumbbell Behind The Back Wrist Curl",
+      "imageUrl": "assets/male/lower arms/Dumbbell Behind-the-Back Wrist Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Forearms",
+      "name": "Dumbbell Over Bench Wrist Curl",
+      "imageUrl": "assets/male/lower arms/Dumbbell Over Bench Wrist Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Forearms",
+      "name": "Side Wrist Pull Stretch",
+      "imageUrl": "assets/male/lower arms/Side Wrist Pull Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Forearms",
+      "name": "Wrist Circles",
+      "imageUrl": "assets/male/lower arms/Wrist Circles.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Band Standing Calf Raise",
+      "imageUrl": "assets/male/lower legs/Band Standing Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Calf Stretch With Rope",
+      "imageUrl": "assets/male/lower legs/Calf Stretch with Rope.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Calf Stretch With Strap",
+      "imageUrl": "assets/male/lower legs/Calf Stretch with Strap.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Donkey Calf Raise",
+      "imageUrl": "assets/male/lower legs/Donkey Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Dumbbell Seated Calf Raise",
+      "imageUrl": "assets/male/lower legs/Dumbbell Seated Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Dumbbell Single Leg Calf Raise",
+      "imageUrl": "assets/male/lower legs/Dumbbell Single Leg Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Dumbbell Standing Calf Raise",
+      "imageUrl": "assets/male/lower legs/Dumbbell Standing Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Feet And Ankles Rotation Stretch",
+      "imageUrl": "assets/male/lower legs/Feet and Ankles Rotation Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Feet And Ankles Stretch",
+      "imageUrl": "assets/male/lower legs/Feet and Ankles Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Lever Seated Calf Raise",
+      "imageUrl": "assets/male/lower legs/Lever Seated Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Lever Standing Calf Raise",
+      "imageUrl": "assets/male/lower legs/Lever Standing Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Peroneals Stretch",
+      "imageUrl": "assets/male/lower legs/Peroneals Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Seated Calf Stretch",
+      "imageUrl": "assets/male/lower legs/Seated Calf Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Sled 45 Degree Calf Press",
+      "imageUrl": "assets/male/lower legs/Sled 45 Degree Calf Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Smith Machine Calf Raise",
+      "imageUrl": "assets/male/lower legs/Smith Machine Calf Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Stairs Calf Stretch",
+      "imageUrl": "assets/male/lower legs/Stairs Calf Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Calves",
+      "name": "Standing Bench Calf Stretch",
+      "imageUrl": "assets/male/lower legs/Standing Bench Calf Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Band Bent Over Rear Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Band Bent-Over Rear Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Band One Arm Front Raise",
+      "imageUrl": "assets/male/shoulders/Band One Arm Front Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Band Shoulder Warm Up Stretch",
+      "imageUrl": "assets/male/shoulders/Band Shoulder Warm-Up Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Band Standing Rear Delt Row",
+      "imageUrl": "assets/male/shoulders/Band Standing Rear Delt Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Barbell Front Raise",
+      "imageUrl": "assets/male/shoulders/Barbell Front Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Barbell Rear Delt Raise",
+      "imageUrl": "assets/male/shoulders/Barbell Rear Delt Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Barbell Seated Behind The Neck Press",
+      "imageUrl": "assets/male/shoulders/Barbell Seated Behind-The-Neck Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Barbell Wide Grip Upright Row",
+      "imageUrl": "assets/male/shoulders/Barbell Wide-Grip Upright Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Battling Ropes",
+      "imageUrl": "assets/male/shoulders/Battling Ropes.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Cable Crossover Reverse Fly",
+      "imageUrl": "assets/male/shoulders/Cable Crossover Reverse Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Cable Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Cable Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Cable One Arm Front Raise",
+      "imageUrl": "assets/male/shoulders/Cable One Arm Front Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Cable One Arm Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Cable One Arm Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Cable Rear Delt Row (With Rope)",
+      "imageUrl": "assets/male/shoulders/Cable Rear Delt Row (with rope).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Alternating Shoulder Press",
+      "imageUrl": "assets/male/shoulders/Dumbbell Alternating Shoulder Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Arnold Press",
+      "imageUrl": "assets/male/shoulders/Dumbbell Arnold Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Front Raise",
+      "imageUrl": "assets/male/shoulders/Dumbbell Front Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Incline Rear Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Dumbbell Incline Rear Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Iron Cross",
+      "imageUrl": "assets/male/shoulders/Dumbbell Iron Cross.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Dumbbell Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell One Arm Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Dumbbell One Arm Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Rear Delt Row",
+      "imageUrl": "assets/male/shoulders/Dumbbell Rear Delt Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Seated Front Raise",
+      "imageUrl": "assets/male/shoulders/Dumbbell Seated Front Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Seated Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Dumbbell Seated Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Dumbbell Upright Row",
+      "imageUrl": "assets/male/shoulders/Dumbbell Upright Row.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Ez Barbell Anti Gravity Press",
+      "imageUrl": "assets/male/shoulders/EZ Barbell Anti Gravity Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Lever Lateral Raise",
+      "imageUrl": "assets/male/shoulders/Lever Lateral Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Lever Seated Reverse Fly",
+      "imageUrl": "assets/male/shoulders/Lever Seated Reverse Fly.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Military Press",
+      "imageUrl": "assets/male/shoulders/Military Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Rear Deltoid Stretch",
+      "imageUrl": "assets/male/shoulders/Rear Deltoid Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Seated Dumbbell Shoulder Press",
+      "imageUrl": "assets/male/shoulders/Seated Dumbbell Shoulder Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Seated Shoulder Flexor, Depressor, Retractor Stretch",
+      "imageUrl": "assets/male/shoulders/Seated Shoulder Flexor, Depressor, Retractor Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Shoulders",
+      "name": "Smith Seated Shoulder Press",
+      "imageUrl": "assets/male/shoulders/Smith Seated Shoulder Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Band Overhead Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Band Overhead Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Band Triceps Pushdown",
+      "imageUrl": "assets/male/upper arms/Band Triceps Pushdown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Barbell Close Grip Bench Press",
+      "imageUrl": "assets/male/upper arms/Barbell Close Grip Bench Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Barbell Curl",
+      "imageUrl": "assets/male/upper arms/Barbell Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Barbell Drag Curl",
+      "imageUrl": "assets/male/upper arms/Barbell Drag Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Barbell Prone Incline Curl",
+      "imageUrl": "assets/male/upper arms/Barbell Prone Incline Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Bench Dips",
+      "imageUrl": "assets/male/upper arms/Bench Dips.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Butterfly Yoga Pose",
+      "imageUrl": "assets/male/upper arms/Butterfly Yoga Pose.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Cable Lying Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Cable Lying Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Cable One Arm Curl",
+      "imageUrl": "assets/male/upper arms/Cable One Arm Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Cable Rope Overhead Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Cable Rope Overhead Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Cable Rope Triceps Pushdown",
+      "imageUrl": "assets/male/upper arms/Cable Rope Triceps Pushdown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Cable Standing Inner Curl",
+      "imageUrl": "assets/male/upper arms/Cable Standing Inner Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Cable Standing One Arm Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Cable Standing One Arm Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Cable Triceps Pushdown",
+      "imageUrl": "assets/male/upper arms/Cable Triceps Pushdown.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Close Grip Push Up",
+      "imageUrl": "assets/male/upper arms/Close-Grip Push-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Biceps Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Biceps Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Close Grip Press",
+      "imageUrl": "assets/male/upper arms/Dumbbell Close-Grip Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Concentration Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Concentration Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Cross Body Hammer Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Cross Body Hammer Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Biceps Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Incline Biceps Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Incline Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Hammer Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Incline Hammer Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Incline Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Dumbbell Incline Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Kickback",
+      "imageUrl": "assets/male/upper arms/Dumbbell Kickback.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Lying Alternate Extension",
+      "imageUrl": "assets/male/upper arms/Dumbbell Lying Alternate Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Lying Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Dumbbell Lying Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell One Arm Zottman Preacher Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell One Arm Zottman Preacher Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell One Arm Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Dumbbell One-Arm Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Preacher Curl Over Exercise Ball",
+      "imageUrl": "assets/male/upper arms/Dumbbell Preacher Curl Over Exercise Ball.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Pronate Grip Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Dumbbell Pronate-grip Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Prone Incline Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Prone Incline Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Kickback",
+      "imageUrl": "assets/male/upper arms/Dumbbell Seated Kickback.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Neutral Wrist Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Seated Neutral Wrist Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Preacher Curl",
+      "imageUrl": "assets/male/upper arms/Dumbbell Seated Preacher Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Dumbbell Seated Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Dumbbell Seated Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Ez Bar Biceps Curl",
+      "imageUrl": "assets/male/upper arms/EZ Bar Biceps Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Ez Bar Lying Triceps Extension",
+      "imageUrl": "assets/male/upper arms/EZ Bar Lying Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Kneeling Triceps Stretch",
+      "imageUrl": "assets/male/upper arms/Kneeling Triceps Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Lever Preacher Curl",
+      "imageUrl": "assets/male/upper arms/Lever Preacher Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Lever Seated Dip",
+      "imageUrl": "assets/male/upper arms/Lever Seated Dip.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Lever Triceps Extension",
+      "imageUrl": "assets/male/upper arms/Lever Triceps Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Old School Reverse Extensions",
+      "imageUrl": "assets/male/upper arms/Old School Reverse Extensions.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Reverse Dip Stretch",
+      "imageUrl": "assets/male/upper arms/Reverse Dip Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Seated Alternating Dumbbell Curl",
+      "imageUrl": "assets/male/upper arms/Seated Alternating Dumbbell Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Supine Dumbbell Biceps Curl",
+      "imageUrl": "assets/male/upper arms/Supine Dumbbell Biceps Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Triceps Dips",
+      "imageUrl": "assets/male/upper arms/Triceps Dips.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Biceps",
+      "name": "Weighted Standing Curl",
+      "imageUrl": "assets/male/upper arms/Weighted Standing Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Band Hip Abduction",
+      "imageUrl": "assets/male/upper legs/Band Hip Abduction.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Band Prone Leg Curl",
+      "imageUrl": "assets/male/upper legs/Band Prone Leg Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Band Pull Through",
+      "imageUrl": "assets/male/upper legs/Band Pull Through.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Band Seated Leg Extension",
+      "imageUrl": "assets/male/upper legs/Band Seated Leg Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Band Standing Leg Curl",
+      "imageUrl": "assets/male/upper legs/Band Standing Leg Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Barbell Back Squat",
+      "imageUrl": "assets/male/upper legs/Barbell Back Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Barbell Clean And Press",
+      "imageUrl": "assets/male/upper legs/Barbell Clean And Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Barbell Front Squat",
+      "imageUrl": "assets/male/upper legs/Barbell Front Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Barbell Lunge",
+      "imageUrl": "assets/male/upper legs/Barbell Lunge.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Barbell Straight Leg Deadlift",
+      "imageUrl": "assets/male/upper legs/Barbell Straight Leg Deadlift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Deadlift",
+      "imageUrl": "assets/male/upper legs/Dumbbell Deadlift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Goblet Squat",
+      "imageUrl": "assets/male/upper legs/Dumbbell Goblet Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Lunge",
+      "imageUrl": "assets/male/upper legs/Dumbbell Lunge.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Lying Leg Curl",
+      "imageUrl": "assets/male/upper legs/Dumbbell Lying Leg Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Single Leg Squat",
+      "imageUrl": "assets/male/upper legs/Dumbbell Single Leg Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Squat",
+      "imageUrl": "assets/male/upper legs/Dumbbell Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Stiff Leg Deadlift",
+      "imageUrl": "assets/male/upper legs/Dumbbell Stiff Leg Deadlift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Dumbbell Sumo Squat",
+      "imageUrl": "assets/male/upper legs/Dumbbell Sumo Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Front Toe Touch Stretch",
+      "imageUrl": "assets/male/upper legs/Front Toe Touch Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Hip Circles Stretch",
+      "imageUrl": "assets/male/upper legs/Hip Circles Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Hip Flexor And Quadriceps Stretch",
+      "imageUrl": "assets/male/upper legs/Hip Flexor and Quadriceps Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Jump Step Up",
+      "imageUrl": "assets/male/upper legs/Jump Step-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Horizontal Leg Press",
+      "imageUrl": "assets/male/upper legs/Lever Horizontal Leg Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Kneeling Leg Curl",
+      "imageUrl": "assets/male/upper legs/Lever Kneeling Leg Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Leg Extension",
+      "imageUrl": "assets/male/upper legs/Lever Leg Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Lying Leg Curl",
+      "imageUrl": "assets/male/upper legs/Lever Lying Leg Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Reverse Hyperextension",
+      "imageUrl": "assets/male/upper legs/Lever Reverse Hyperextension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Seated Hip Abduction",
+      "imageUrl": "assets/male/upper legs/Lever Seated Hip Abduction.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Seated Hip Adduction",
+      "imageUrl": "assets/male/upper legs/Lever Seated Hip Adduction.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Seated Leg Curl",
+      "imageUrl": "assets/male/upper legs/Lever Seated Leg Curl.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lever Standing Hip Extension",
+      "imageUrl": "assets/male/upper legs/Lever Standing Hip Extension.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Lying Quadriceps Stretch",
+      "imageUrl": "assets/male/upper legs/Lying Quadriceps Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Rear Decline Bridge",
+      "imageUrl": "assets/male/upper legs/Rear Decline Bridge.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Runner'S Stretch",
+      "imageUrl": "assets/male/upper legs/Runner's Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Sled 45 Degree Wide Leg Press",
+      "imageUrl": "assets/male/upper legs/Sled 45 Degree Wide Leg Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Sled Hack Squat",
+      "imageUrl": "assets/male/upper legs/Sled Hack Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Smith Chair Squat",
+      "imageUrl": "assets/male/upper legs/Smith Chair Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Smith Machine Leg Press",
+      "imageUrl": "assets/male/upper legs/Smith Machine Leg Press.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Standing Hamstring Stretch",
+      "imageUrl": "assets/male/upper legs/Standing Hamstring Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Standing Knee Raise Stretch",
+      "imageUrl": "assets/male/upper legs/Standing Knee Raise Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Standing Quadriceps Stretch",
+      "imageUrl": "assets/male/upper legs/Standing Quadriceps Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Thighs",
+      "name": "Weighted Sissy Squat",
+      "imageUrl": "assets/male/upper legs/Weighted Sissy Squat.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "45 Degree Bicycle Twisting Crunch",
+      "imageUrl": "assets/male/waist/45-Degree Bicycle Twisting Crunch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Band Resisted Decline Sit Up",
+      "imageUrl": "assets/male/waist/Band Resisted Decline Sit-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Band Side Bend",
+      "imageUrl": "assets/male/waist/Band Side Bend.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Band Standing Crunch",
+      "imageUrl": "assets/male/waist/Band Standing Crunch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Band Standing Lift",
+      "imageUrl": "assets/male/waist/Band Standing Lift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Bench Crunch",
+      "imageUrl": "assets/male/waist/Bench Crunch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Bridge Pose (Setu Bandhasana)",
+      "imageUrl": "assets/male/waist/Bridge Pose (Setu Bandhasana).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Cable Kneeling Crunch",
+      "imageUrl": "assets/male/waist/Cable Kneeling Crunch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Cable Standing Crunch",
+      "imageUrl": "assets/male/waist/Cable Standing Crunch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Cable Standing Lift",
+      "imageUrl": "assets/male/waist/Cable Standing Lift.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Cable Twist (Up Down)",
+      "imageUrl": "assets/male/waist/Cable Twist (up-down).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Chin To Chest Stretch",
+      "imageUrl": "assets/male/waist/Chin-to-Chest Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Crossover Kneeling Hip Flexor Stretch",
+      "imageUrl": "assets/male/waist/Crossover Kneeling Hip Flexor Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Dumbbell Side Bend",
+      "imageUrl": "assets/male/waist/Dumbbell Side Bend.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Exercise Ball Sit Up",
+      "imageUrl": "assets/male/waist/Exercise Ball Sit-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Exercise Ball Spinal Stretch",
+      "imageUrl": "assets/male/waist/Exercise Ball Spinal Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Flexion Leg Sit Up Stretch",
+      "imageUrl": "assets/male/waist/Flexion Leg Sit-Up Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Hanging Leg Hip Raise",
+      "imageUrl": "assets/male/waist/Hanging Leg Hip Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Hanging Straight Leg Raise",
+      "imageUrl": "assets/male/waist/Hanging Straight Leg Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Hip Extension Stretch",
+      "imageUrl": "assets/male/waist/Hip Extension Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Incline Leg Hip Raise",
+      "imageUrl": "assets/male/waist/Incline Leg Hip Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Iron Cross Stretch",
+      "imageUrl": "assets/male/waist/Iron Cross Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Landmine 180",
+      "imageUrl": "assets/male/waist/Landmine 180.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Lever Seated Crunch",
+      "imageUrl": "assets/male/waist/Lever Seated Crunch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Lying Leg Raise",
+      "imageUrl": "assets/male/waist/Lying Leg Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Lying Straight Leg Raise",
+      "imageUrl": "assets/male/waist/Lying Straight Leg Raise.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Otis Up",
+      "imageUrl": "assets/male/waist/Otis-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Rear Foot Elevated Hip Flexor Stretch",
+      "imageUrl": "assets/male/waist/Rear Foot Elevated Hip Flexor Stretch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Seated Twist Stretch (Straight Arm)",
+      "imageUrl": "assets/male/waist/Seated Twist Stretch (Straight Arm).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Side Plank",
+      "imageUrl": "assets/male/waist/Side Plank.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Sit Up",
+      "imageUrl": "assets/male/waist/Sit-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Spell Caster",
+      "imageUrl": "assets/male/waist/Spell Caster.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Standing Side Bend Stretch (Bent Arm)",
+      "imageUrl": "assets/male/waist/Standing Side Bend Stretch (Bent Arm).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Twisting Crunch",
+      "imageUrl": "assets/male/waist/Twisting Crunch.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "V Up",
+      "imageUrl": "assets/male/waist/V-Up.mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Vertical Leg Raise (On Parallel Bars)",
+      "imageUrl": "assets/male/waist/Vertical Leg Raise (on parallel bars).mp4"
+    },
+    {
+      "gender": "male",
+      "group": "Core",
+      "name": "Weighted Leg Extension Crunch",
+      "imageUrl": "assets/male/waist/Weighted Leg Extension Crunch.mp4"
+    }
+  ]
+}
