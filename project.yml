@@ -23,6 +23,7 @@ targets:
         CFBundleDisplayName: Lift
         UILaunchScreen: {}
         UIUserInterfaceStyle: Dark
+        NSHealthShareUsageDescription: Lift shows your steps, active energy, resting heart rate and sleep from Apple Health. Nothing leaves your phone.
         UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
     settings:
       base:

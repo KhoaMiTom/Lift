@@ -112,6 +112,8 @@ final class Bridge: NSObject, WKScriptMessageHandlerWithReply {
                     WidgetCenter.shared.reloadAllTimelines()
                 }
                 return (result, nil)
+            case "health":
+                return (try await Health.summary(), nil)
             case "haptic":
                 haptic(args.first as? String ?? "light")
                 return (nil, nil)

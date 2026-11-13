@@ -57,9 +57,9 @@ jobs:
             exit 1
           }
 
-          # The build is unsigned. Put the App Group into the binaries so the sideloading tool keeps it.
+          # The build is unsigned. Put the entitlements (App Group, HealthKit) into the binaries so the sideloading tool keeps them.
           ldid -SConfig/Lift.entitlements Payload/Lift.app/Lift
-          ldid -SConfig/Lift.entitlements Payload/Lift.app/PlugIns/LiftWidget.appex/LiftWidget
+          ldid -SConfig/LiftWidget.entitlements Payload/Lift.app/PlugIns/LiftWidget.appex/LiftWidget
 
           zip -qry Lift.ipa Payload
 
